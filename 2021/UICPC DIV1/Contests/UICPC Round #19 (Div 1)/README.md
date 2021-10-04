@@ -1,8 +1,8 @@
 # UICPC Round #19 (Div 1)
 ## General Information
-- Date: 09/24/2021
+- Date: 2021-09-24
 - Link: https://open.kattis.com/contests/a23m2u
-- Difficulty: ?
+- Difficulty: 58
 - Number of questions: 12
 ## Ranking
 1. Aoi Albatross

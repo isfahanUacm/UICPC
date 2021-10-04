@@ -2,7 +2,7 @@
 ## General Information
 - Date: 2021-10-01
 - Link: https://open.kattis.com/contests/xooyxu
-- Difficulty: ?
+- Difficulty: 65
 - Number of questions: 12
 ## Ranking
 1. Aoi Albatross

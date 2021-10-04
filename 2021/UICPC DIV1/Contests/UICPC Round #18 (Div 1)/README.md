@@ -1,8 +1,8 @@
 # UICPC Round #18 (Div 1)
 ## General Information
-- Date: 09/19/2021
+- Date: 2021-09-16
 - Link: https://open.kattis.com/contests/yaxw2f
-- Difficulty: ?
+- Difficulty: 64
 - Number of questions: 12
 ## Ranking
 1. Aoi Albatross
