@@ -1,8 +1,8 @@
 # UICPC Round #18 (Div 1)
 ## General Information
-- Date: 09/19/2021
+- Date: 2021-09-16
 - Link: https://open.kattis.com/contests/yaxw2f
-- Difficulty: ?
+- Difficulty: 64
 - Number of questions: 12
 ## Ranking
 1. Aoi Albatross
@@ -13,10 +13,10 @@
 - Problem A - Almost Union-Find: #UFDS
 - Problem B - Other Side: #Adhoc
 - Problem C - A Feast For Cats: #MST
-- Problem D - Deceptive Dice: #DP-probability
+- Problem D - Deceptive Dice: #DP-Probability
 - Problem E - Nature Reserve: #MST
 - Problem F - Firetrucks Are Red: #MST
-- Problem G - Reconstructing Tape Art: #Data-structure #Greedy
+- Problem G - Reconstructing Tape Art: #Data-Structures #Greedy
 - Problem H - Hill Number: #DP-String
 - Problem I - Simplicity: #Greedy
 - Problem J - Repeated Substrings: #LRS
