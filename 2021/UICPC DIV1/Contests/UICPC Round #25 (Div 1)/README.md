@@ -2,7 +2,7 @@
 ## General Information
 - Date: 2021-11-12
 - Link: https://open.kattis.com/contests/j45jwh
-- Difficulty: ?
+- Difficulty: 72.5
 - Number of questions: 13
 ## Ranking
 1. Aoi Albatross

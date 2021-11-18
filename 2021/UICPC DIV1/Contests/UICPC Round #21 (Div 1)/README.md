@@ -2,7 +2,7 @@
 ## General Information
 - Date: 2021-10-08
 - Link: https://open.kattis.com/contests/yrk7mg
-- Difficulty: ?
+- Difficulty: 60.5
 - Number of questions: 11
 ## Ranking
 1. Fergie Time
