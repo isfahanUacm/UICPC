@@ -1,4 +1,4 @@
-# UICPC Round #25 (Div 1)
+# UICPC Round #26 (Div 1)
 ## General Information
 - Date: 2021-11-19
 - Link: https://open.kattis.com/contests/upanz2
