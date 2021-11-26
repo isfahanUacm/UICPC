@@ -2,7 +2,7 @@
 ## General Information
 - Date: 2021-10-22
 - Link: https://open.kattis.com/contests/ah74h4/
-- Difficulty: ?
+- Difficulty: 64
 - Number of questions: 12
 ## Ranking
 1. Fluorescence

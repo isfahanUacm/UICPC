@@ -2,7 +2,7 @@
 ## General Information
 - Date: 2021-10-15
 - Link: https://open.kattis.com/contests/rh2837/
-- Difficulty: ?
+- Difficulty: 64.5
 - Number of questions: 12
 ## Ranking
 1. Aoi Albatross
