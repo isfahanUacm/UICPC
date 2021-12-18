@@ -2,7 +2,7 @@
 ## General Information
 - Date: 2021-11-26
 - Link: https://open.kattis.com/contests/ehcubt/
-- Difficulty: ?
+- Difficulty: 77
 - Number of questions: 13
 ## Ranking
 1. Fluorescence

@@ -2,7 +2,7 @@
 ## General Information
 - Date: 2021-11-19
 - Link: https://open.kattis.com/contests/upanz2
-- Difficulty: ?
+- Difficulty: 71
 - Number of questions: 13
 ## Ranking
 1. Fluorescence

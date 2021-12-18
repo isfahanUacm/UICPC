@@ -2,7 +2,7 @@
 ## General Information
 - Date: 2021-12-03
 - Link: https://open.kattis.com/contests/p5xhnc
-- Difficulty: ?
+- Difficulty: 71
 - Number of questions: 13
 ## Ranking
 1. Aoi Albatross
