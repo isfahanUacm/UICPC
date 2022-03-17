@@ -1,6 +1,6 @@
 # UICPC Round #01 (Div 1)
 ## General Information
-- Date: 2022-03-15
+- Date: 2022-03-03
 - Link: https://open.kattis.com/contests/yxi8jp
 - Difficulty: ?
 - Number of questions: 10
