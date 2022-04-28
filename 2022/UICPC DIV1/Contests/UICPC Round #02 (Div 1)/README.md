@@ -27,11 +27,11 @@
 - Problem A - A Real Challenge: #Quadrilaterals #Math #Geometry
 - Problem B - Bridge Automation: #DP
 - Problem C - Crazy Driver: #Greedy
-- Problem D - Dodecaphony: #Real Life #Implementation
+- Problem D - Dodecaphony: #Real-Life #Implementation
 - Problem E - Ebony and Ivory: #DP
 - Problem F - Farey Sequence Length: #Modified-Sieve #Euler-Phi #Pre-calculation
 - Problem G - Getting Through: #BSTA #Graph-Connectivity
 - Problem H - Hydra's Heads: #State-Space #BFS
 - Problem I - IOU: #Graph-Property #Graph-Cycle
 - Problem J - Misa: #Brute-force
-- Problem K - Travel the Skies:#Graph-Data-Structures-Manipulation #Simulation
+- Problem K - Travel the Skies: #Graph-Data-Structures-Manipulation #Simulation
