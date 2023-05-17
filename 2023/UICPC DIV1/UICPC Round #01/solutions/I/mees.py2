@@ -1,0 +1,17 @@
+n = int(raw_input())
+
+l = [int(raw_input()) for _ in range(n)]
+#print("reading done")
+
+s = sum(l)
+
+a, b = 0, s
+
+best = 0
+
+for k in l:
+    a += k**2
+    b -= k
+    best = max(best, a*b)
+
+print(best)

@@ -1,0 +1,9 @@
+#!/usr/bin/env python2
+n = int(raw_input())
+
+if n % 4 == 0:
+    print n//4 + 1, n//4 - 1 
+elif n % 2 == 0:
+    print "impossible" 
+else:
+    print (n+1)//2, (n-1)//2 
