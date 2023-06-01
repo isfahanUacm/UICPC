@@ -1,0 +1,47 @@
+//In the name of Allah
+#include<bits/stdc++.h>
+
+using namespace std ;
+
+typedef long long int ll ;
+
+int arr[100] ;
+
+int main(void){
+    ios_base::sync_with_stdio(false) ;
+    int n , l , p ;
+    cin>> n >> l >> p ;
+    ll x ;
+    int temp , t ;
+    ll maxi = 0 ;
+    for(int i=0 ; i<p ; i++){
+        cin >> x ;
+        x = l*n - x ;
+        temp = x/l ;
+        if(x%l==0)
+            temp-- ;
+        if(temp<0)
+            temp = 0 ;
+        if(temp>=n)
+            temp = n-1 ;
+        arr[temp]++ ;
+        temp = x/l ;
+        if(temp>=n){
+            x -= l*n ;
+            t = x + l/2 ;
+        }
+        else{
+            temp = x%l ;
+            t = abs(l/2 - temp) ;
+        }
+        if(t>maxi)
+            maxi = t ;
+    }
+    int te = 0 ;
+    for(int i=0 ; i<n ; i++)
+        if(arr[i]>te)
+            te = arr[i] ;
+    cout << maxi << '\n' << te << '\n' ;
+
+    return 0 ;
+}
