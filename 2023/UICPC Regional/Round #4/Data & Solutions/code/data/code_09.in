@@ -1,0 +1,287 @@
+5
+Snip0.java
+y; a.reset; int; new Snip(); {lmb((!(z))?(x):(i++))}
+isNull(new Snip()); (c=z)?(a.neg()):(/* a.neg() */)
+{!({new snip(){for(i++)}})}; a.neg()
+new snip(){write('next i');}; int
+new Snip(); next i; !(/* lmb(a.neg()) */)
+int; isNull(/* c=x */); a.reset
+new Snip(); write('{i++}');; isNull(write('x');)
+/* int */; z; lmb(for(new Snip()))
+new snip(){c=new snip(){!(lmb(new Snip()))}}
+y; (x)?(c=/* isNull(c=int) */):({isNull(a.reset)})
+z; z; z; !({new snip(){c=write('a.neg()');}})
+new snip(){/* z */}; x; int; !(lmb(lmb(c=y)))
+if (a.reset) then x else next i;
+!(if (isNull(x)) then i++ else y;)
+((new Snip())?(i++):(int))?(write('i++');):(write('i++');)
+x; {new snip(){for(z)}}; lmb(new snip(){c={z}})
+write('c=lmb(int)');; y; lmb(for(!(a.neg())))
+a.reset; a.reset; int; a.neg()
+for(int); {{a.neg()}}; new snip(){next i}
+z; isNull(lmb(z)); a.reset; lmb(isNull(a.neg()))
+!(next i); write('a.neg()');; c=next i
+for(isNull(isNull({new snip(){new snip(){lmb(a.reset)}}})))
+(isNull(a.neg()))?(y):(/* write('y'); */)
+{next i}; /* new Snip() */; c=i++
+{y}; for({c=next i}); next i; i++
+!(/* if (next i) then c=int else z; */)
+i++; next i; /* lmb(i++) */; isNull(z)
+!(y); a.neg(); write('new Snip()');
+int; i++; new Snip(); int; !(int)
+y; !(next i); isNull(lmb(!(i++)))
+***END***
+Snip1.java
+new Snip(); z; int; new Snip()
+isNull(!(lmb(a.reset))); a.neg()
+new Snip(); isNull(a.reset); !(new Snip())
+y; x; int; {{z}}; (x)?(next i):(new snip(){int})
+x; !(c=isNull(y)); next i; new Snip()
+write('c={write('new Snip()');}');
+z; z; isNull(!(new snip(){c=z}))
+!(/* for(c=int) */); z; {{c=c=next i}}
+i++; isNull(next i); !(a.reset)
+isNull(new snip(){{a.neg()}}); i++
+isNull(for(next i)); z; for(int)
+int; a.neg(); int; a.reset; next i
+x; !(y); c=z; y; int; new Snip()
+lmb(lmb(if (next i) then a.reset else new snip(){z};))
+(write('c=i++');)?(int):(i++); new Snip()
+y; int; c=int; lmb(int); z; int
+!(new snip(){i++}); !(write('a.reset');)
+next i; new snip(){y}; /* y */
+{int}; /* (next i)?(for(/* a.reset */)):(z) */
+!(z); z; z; a.reset; z; a.reset
+(for(next i))?(a.reset):(a.reset)
+if (y) then lmb(x) else z;; isNull(y)
+a.reset; lmb(a.reset); a.neg()
+c=write('next i');; (lmb(c=y))?(isNull(int)):(next i)
+a.reset; if (new Snip()) then !(new Snip()) else i++;
+!(/* c=new snip(){a.reset} */)
+y; lmb({isNull(/* for(next i) */)})
+next i; !(!(z)); x; for(new Snip())
+new Snip(); new Snip(); isNull(/* a.reset */)
+z; lmb(c=next i); {c=!(if (y) then lmb(!(x)) else int;)}
+next i; x; (!(write('y');))?(lmb(a.neg())):(new snip(){x})
+(y)?(for(lmb({isNull(a.neg())}))):(x)
+write('next i');; {lmb(x)}; new Snip()
+***END***
+Snip2.java
+!(int); /* y */; /* a.neg() */
+!(a.neg()); c=/* y */; a.neg()
+{z}; next i; /* i++ */; next i
+x; i++; for(new snip(){next i})
+y; !(new snip(){int}); new snip(){x}
+for(new snip(){a.reset}); y; lmb(if (y) then int else int;)
+next i; (new snip(){z})?(new snip(){z}):(next i)
+int; /* new Snip() */; new snip(){write('write('int');');}
+for(z); new Snip(); lmb(x); write('a.neg()');
+a.neg(); isNull(isNull(!(isNull(new Snip()))))
+next i; write('i++');; y; ({x})?(write('next i');):(!(i++))
+write('z');; x; new snip(){next i}
+int; x; for(for(a.reset)); int
+lmb(isNull(new Snip())); c=!(for(isNull(i++)))
+for(z); lmb(i++); /* !(next i) */
+c={int}; !({!(c=isNull(/* lmb(new Snip()) */))})
+a.reset; for(z); (new Snip())?({a.neg()}):(int)
+z; x; /* isNull(for(a.neg())) */
+a.reset; (a.reset)?(!(z)):(/* c={{next i}} */)
+a.reset; x; if (c=a.neg()) then new Snip() else int;
+/* lmb(/* for(/* new snip(){int} */) */) */
+{int}; for({int}); i++; !(lmb(c=lmb(i++)))
+next i; (a.neg())?(i++):(a.reset)
+new Snip(); y; write('y');; next i
+if (y) then write('i++'); else i++;
+(!(next i))?(new snip(){write('write('{x}');');}):(z)
+a.reset; new Snip(); y; write('y');
+a.reset; x; new snip(){y}; new Snip()
+y; {int}; (i++)?(a.neg()):(c=y)
+i++; new snip(){a.reset}; lmb(y)
+new snip(){new snip(){x}}; a.neg()
+for(a.reset); z; write('{x}');
+lmb(!(a.neg())); isNull(a.reset)
+/* a.reset */; int; {a.neg()}; z
+a.neg(); new snip(){z}; !(int)
+c=int; {isNull(a.reset)}; int; int
+***END***
+Snip3.java
+new Snip(); i++; isNull(new Snip())
+/* next i */; a.reset; a.reset
+z; y; y; new Snip(); next i; new snip(){new snip(){lmb(x)}}
+for(!(isNull(lmb(isNull(new Snip())))))
+c=(a.neg())?(int):(/* c=new snip(){write('i++');} */)
+a.reset; lmb(new snip(){(int)?(int):(next i)})
+!(i++); c=next i; next i; c=write('z');
+for(/* int */); write('write('z');');
+y; new Snip(); new snip(){a.reset}
+write('lmb(a.neg())');; next i
+i++; {next i}; write('y');; c=x
+int; c={z}; lmb({isNull(z)}); c=i++
+new snip(){int}; lmb(a.neg()); int
+next i; x; new Snip(); write('!(a.reset)');
+x; int; y; new snip(){int}; /* isNull(y) */
+(y)?(/* int */):((int)?(new snip(){y}):(isNull(lmb(y))))
+{for(lmb(a.reset))}; y; a.neg()
+{new snip(){if (c=for(i++)) then new Snip() else int;}}
+y; next i; write('isNull(z)');
+x; x; next i; new snip(){a.reset}
+{isNull((z)?(!(z)):(i++))}; x; x
+lmb(!(a.reset)); if (next i) then z else a.reset;
+y; int; ({z})?(y):(c=new Snip())
+for(for(a.neg())); a.neg(); write('a.reset');
+next i; for(int); x; lmb(int); new snip(){/* y */}
+i++; write('int');; c=a.reset; i++
+c=a.reset; a.neg(); a.reset; x
+!(a.reset); a.reset; next i; z
+next i; next i; for(for(write('!(next i)');))
+if (lmb(y)) then int else next i;
+y; a.neg(); for(for(int)); i++
+isNull(/* /* {a.neg()} */ */); next i
+{isNull(y)}; !(new snip(){lmb(/* isNull(next i) */)})
+({i++})?(lmb(/* z */)):(y); a.reset
+next i; x; /* for(lmb(y)) */; z
+isNull(lmb(int)); int; z; next i
+{for(i++)}; c=z; /* a.neg() */
+write('/* a.neg() */');; x; for(z)
+int; new snip(){c=(int)?(y):((i++)?(next i):(c=a.neg()))}
+***END***
+Snip4.java
+int; if (int) then c=c=isNull(a.neg()) else y;
+int; if (a.reset) then a.reset else isNull(a.reset);
+{i++}; a.neg(); {z}; if (lmb(int)) then z else a.reset;
+{lmb(int)}; write('int');; a.reset
+write('write('c=/* x */');');; for(a.neg())
+z; {for(lmb(y))}; new snip(){i++}
+c=int; a.neg(); new snip(){/* z */}
+a.neg(); (new Snip())?(c={a.reset}):(y)
+isNull(z); c=(y)?(y):(a.reset)
+write('c=int');; a.reset; a.neg()
+new snip(){z}; !(lmb(a.reset))
+{x}; /* y */; c=int; !(new Snip())
+z; a.reset; isNull(next i); !(y)
+a.neg(); {lmb(i++)}; lmb(next i)
+int; !(y); !(z); i++; new snip(){/* for(int) */}
+/* lmb(write('new Snip()');) */
+write('isNull(new Snip())');; x
+!(lmb(a.neg())); y; new Snip()
+if (!(lmb(new snip(){z}))) then new snip(){for(y)} else z;
+i++; c=c=for(/* for((i++)?(lmb(a.reset)):(next i)) */)
+z; c=i++; z; new Snip(); next i
+new Snip(); next i; x; a.neg()
+next i; /* new snip(){int} */; !(new snip(){int})
+new snip(){!(next i)}; for(i++)
+/* lmb(a.reset) */; c=new Snip()
+c=for(int); z; y; i++; a.reset
+int; int; !(lmb(a.neg())); y; a.reset
+for(a.neg()); new snip(){lmb(new Snip())}
+a.reset; /* new snip(){int} */
+write('(int)?(write('a.reset');):(y)');
+c=i++; isNull(c=c=for(next i))
+a.reset; isNull(if (z) then x else a.reset;)
+i++; i++; int; x; int; a.neg()
+(write('i++');)?(for({{isNull(i++)}})):(x)
+new snip(){lmb(z)}; i++; new snip(){x}
+!(next i); /* x */; x; write('!(new snip(){next i})');
+z; y; next i; new snip(){!({a.reset})}
+if (lmb(a.reset)) then next i else new Snip();
+c=!(new Snip()); y; next i; /* a.reset */
+int; y; z; x; c=int; c={y}; i++
+write('isNull(if (next i) then {z} else int;)');
+x; write('a.reset');; /* lmb(next i) */
+***END***
+y; a.reset; int; new Snip(); {lmb((!(z))?(x):(i++))}
+isNull(new Snip()); (c=z)?(a.neg()):(/* a.neg() */)
+{!({new snip(){for(i++)}})}; a.neg()
+new snip(){write('next i');}; int
+new Snip(); next i; !(/* lmb(a.neg()) */)
+new Snip(); z; int; new Snip()
+isNull(!(lmb(a.reset))); a.neg()
+new Snip(); isNull(a.reset); !(new Snip())
+y; x; int; {{z}}; (x)?(next i):(new snip(){int})
+x; !(c=isNull(y)); next i; new Snip()
+write('c={write('new Snip()');}');
+!(int); /* y */; /* a.neg() */
+!(a.neg()); c=/* y */; a.neg()
+{z}; next i; /* i++ */; next i
+x; i++; for(new snip(){next i})
+y; !(new snip(){int}); new snip(){x}
+for(new snip(){a.reset}); y; lmb(if (y) then int else int;)
+next i; (new snip(){z})?(new snip(){z}):(next i)
+new Snip(); i++; isNull(new Snip())
+/* next i */; a.reset; a.reset
+z; y; y; new Snip(); next i; new snip(){new snip(){lmb(x)}}
+for(!(isNull(lmb(isNull(new Snip())))))
+c=(a.neg())?(int):(/* c=new snip(){write('i++');} */)
+a.reset; lmb(new snip(){(int)?(int):(next i)})
+!(i++); c=next i; next i; c=write('z');
+for(/* int */); write('write('z');');
+int; if (int) then c=c=isNull(a.neg()) else y;
+int; if (a.reset) then a.reset else isNull(a.reset);
+{i++}; a.neg(); {z}; if (lmb(int)) then z else a.reset;
+{lmb(int)}; write('int');; a.reset
+write('write('c=/* x */');');; for(a.neg())
+z; {for(lmb(y))}; new snip(){i++}
+c=int; a.neg(); new snip(){/* z */}
+a.neg(); (new Snip())?(c={a.reset}):(y)
+isNull(z); c=(y)?(y):(a.reset)
+int; isNull(/* c=x */); a.reset
+new Snip(); write('{i++}');; isNull(write('x');)
+/* int */; z; lmb(for(new Snip()))
+new snip(){c=new snip(){!(lmb(new Snip()))}}
+y; (x)?(c=/* isNull(c=int) */):({isNull(a.reset)})
+z; z; z; !({new snip(){c=write('a.neg()');}})
+new snip(){/* z */}; x; int; !(lmb(lmb(c=y)))
+if (a.reset) then x else next i;
+!(if (isNull(x)) then i++ else y;)
+((new Snip())?(i++):(int))?(write('i++');):(write('i++');)
+z; z; isNull(!(new snip(){c=z}))
+!(/* for(c=int) */); z; {{c=c=next i}}
+i++; isNull(next i); !(a.reset)
+isNull(new snip(){{a.neg()}}); i++
+isNull(for(next i)); z; for(int)
+int; a.neg(); int; a.reset; next i
+x; !(y); c=z; y; int; new Snip()
+lmb(lmb(if (next i) then a.reset else new snip(){z};))
+(write('c=i++');)?(int):(i++); new Snip()
+y; int; c=int; lmb(int); z; int
+!(new snip(){i++}); !(write('a.reset');)
+int; /* new Snip() */; new snip(){write('write('int');');}
+for(z); new Snip(); lmb(x); write('a.neg()');
+a.neg(); isNull(isNull(!(isNull(new Snip()))))
+next i; write('i++');; y; ({x})?(write('next i');):(!(i++))
+write('z');; x; new snip(){next i}
+int; x; for(for(a.reset)); int
+lmb(isNull(new Snip())); c=!(for(isNull(i++)))
+for(z); lmb(i++); /* !(next i) */
+c={int}; !({!(c=isNull(/* lmb(new Snip()) */))})
+a.reset; for(z); (new Snip())?({a.neg()}):(int)
+z; x; /* isNull(for(a.neg())) */
+a.reset; (a.reset)?(!(z)):(/* c={{next i}} */)
+y; new Snip(); new snip(){a.reset}
+write('lmb(a.neg())');; next i
+i++; {next i}; write('y');; c=x
+int; c={z}; lmb({isNull(z)}); c=i++
+new snip(){int}; lmb(a.neg()); int
+next i; x; new Snip(); write('!(a.reset)');
+x; int; y; new snip(){int}; /* isNull(y) */
+(y)?(/* int */):((int)?(new snip(){y}):(isNull(lmb(y))))
+{for(lmb(a.reset))}; y; a.neg()
+{new snip(){if (c=for(i++)) then new Snip() else int;}}
+y; next i; write('isNull(z)');
+x; x; next i; new snip(){a.reset}
+{isNull((z)?(!(z)):(i++))}; x; x
+write('c=int');; a.reset; a.neg()
+new snip(){z}; !(lmb(a.reset))
+{x}; /* y */; c=int; !(new Snip())
+z; a.reset; isNull(next i); !(y)
+a.neg(); {lmb(i++)}; lmb(next i)
+int; !(y); !(z); i++; new snip(){/* for(int) */}
+/* lmb(write('new Snip()');) */
+write('isNull(new Snip())');; x
+!(lmb(a.neg())); y; new Snip()
+if (!(lmb(new snip(){z}))) then new snip(){for(y)} else z;
+i++; c=c=for(/* for((i++)?(lmb(a.reset)):(next i)) */)
+z; c=i++; z; new Snip(); next i
+new Snip(); next i; x; a.neg()
+next i; /* new snip(){int} */; !(new snip(){int})
+***END***

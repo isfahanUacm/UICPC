@@ -1,0 +1,12 @@
+1
+FileWithOddSpaces.cs
+ 1 0   P R I N T   " H E L L O   W O R L D "
+ 2 0   G O T O   1 0
+ 3 0   P R I N T   " H O W   D I D   W E   E N D   U P   H E R E ? "
+ 4 0   G O T O   1 0
+***END***
+10 PRINT "HELLO WORLD"
+20 GOTO 10
+30 PRINT "HOW DID WE END UP HERE?"
+40 GOTO 10
+***END***
