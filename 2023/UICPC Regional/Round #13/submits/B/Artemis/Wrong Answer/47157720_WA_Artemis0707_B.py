@@ -1,0 +1,46 @@
+from math import floor
+def ok(n):
+    a1 = (1 + (8*n+1)**0.5) / 2 
+    #print(a1)
+    if floor(a1) == a1 and a1 > 0:
+        return int(a1)
+    
+    return -1
+
+a,b,c,d = map(int,input().split())
+
+a1 = 0
+if a != 0:
+    a1 = ok(a)
+
+if a1 == -1:
+    print("impossible")
+    exit()
+
+d1 = 0 
+if d != 0:
+    d1 = ok(d)
+
+if d1 == -1:
+    print("impossible")
+    exit()
+
+if (c+b != a1*d1) or (abs(c-b) %2==1) :
+    print("impossible")
+    exit()
+
+if d1 ==0:
+    print("0"*a1)
+    exit()
+if a1 == 0:
+    print("1"*d1)
+    exit()
+
+num_right = c // d1
+num_right_m = c % d1
+
+ans = (a1 - num_right - ((num_right_m!=0))) * "0" + "1" *(num_right_m) +"0"*(num_right_m!=0)+"1"*(d1-num_right_m) + num_right*"0"
+
+print(ans)
+
+
