@@ -1,0 +1,1 @@
+[solutions](https://codeforces.com/blog/entry/21567)
