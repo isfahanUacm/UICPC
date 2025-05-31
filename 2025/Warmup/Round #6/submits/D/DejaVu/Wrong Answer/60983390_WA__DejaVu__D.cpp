@@ -1,0 +1,45 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define deb(x) cout << #x << ":" << x << "\n"
+#define deb2(x) cout << ":" << x << "\n"
+#define in(x) cin >> x
+#define pb push_back
+#define pii pair<ll, ll>
+#define piii pair<ll, pii>
+#define f first
+#define s second
+#define ll int64_t
+#define per(i, a, b) for (ll i = a; i <= b; i++)
+#define rep(i, a, b) for (ll i = a; i >= b; i--)
+#define outl(x) cout << x << endl;
+#define outc(x) cout << x << " ";
+const ll maxn = 1e6 + 15;
+const ll mod = 1e9 + 7;
+const ll lg = 22;
+
+signed main()
+{
+    ll t;
+    cin >> t;
+    while (t--)
+    {
+        ll r, k;
+        cin >> r >> k;
+        if (r % k == 0)
+        {
+            r--;
+        }
+        ll d = r / k;
+        ll last = d * k;
+
+        if (r < k)
+            cout << r << endl;
+        else
+        {
+            ll ans1 = (r - last) + 1 + (last / k);
+            ll ans2 = (k - 1) + 1 + (last / k - 1);
+            cout << max(ans1, ans2) << endl;
+        }
+    }
+    return 0;
+}
