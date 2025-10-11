@@ -1,0 +1,1 @@
+You can access solutions through [this Codeforces editorial](https://codeforces.com/blog/entry/9571)
