@@ -1,0 +1,32 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    int n, s;
+    char direction;
+    cin >> n;
+    cin >> s;
+    cin >> direction;
+    int a = 0, b = 0, c = 0;
+    if (direction == 'L') {
+        c = n - s;
+        a = s / 2;
+        b = a;
+        if (s % 2 == 1) {
+            a++;
+            b++;
+        }
+    }
+    else {
+        a = s - 1;
+        b = (n-s)/2;
+        c = b;
+        if ((n-s) % 2 == 1) {
+            b++;
+            c++;
+        }
+    }
+    cout << a << ' ' << b << ' ' << c;
+    return 0;
+}
