@@ -1,0 +1,1 @@
+You can access the contest materials through [this link](https://2024.bapc.eu/)
