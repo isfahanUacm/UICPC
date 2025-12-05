@@ -1,0 +1,1 @@
+The input/output data of the contest is available via [this link](https://icpc.global/worldfinals/problems/2025-ICPC-World-Finals/icpc2025data.zip).
