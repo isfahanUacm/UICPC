@@ -1,0 +1,97 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+using u32 = unsigned;
+using i64 = int64_t;
+using u64 = unsigned int64_t;
+using i128 = __int128;
+using u128 = unsigned __int128;
+using ld = long double;
+
+constexpr int INF32 = 1E9;
+constexpr i64 INF64 = 1E18;
+constexpr int MOD = 1e9 + 7;
+
+#define sz(x) (int)x.size()
+#define F first
+#define S second
+
+const int N = 2e5 + 1;
+bool tst = true;
+
+void solve() {
+    int n;
+    cin >> n;
+
+    if (n == 0) {
+        tst = false;
+        return;
+    }
+
+    string s, t;
+    cin >> s >> t;
+
+    int u = 0, v = 0;
+    for (char c : s) {
+        u += (c == 'a');
+    }
+
+    for (char c : t) {
+        v += (c == 'a');
+    }
+
+    if (u != v) {
+        cout << "no" << endl;
+        return;
+    }
+
+    int k = 0;
+    bool valid = true;
+    string com;
+
+    function<void(int)> op = [&](int idx) {
+        for (int i = 0; i < n; i++) {
+            if (t[idx] == s[i]) {
+                int z = i;
+                while (z < n and s[z] == t[idx]) {
+                    z++;
+                }
+                swap(s[i], s[z]);
+                com.push_back(t[idx] - 'a' + 'A');
+                k += 1;
+                break;
+            }
+        }
+    };
+
+    for (int i = n - 1; i >= 0 and k < 10000; i--) {
+        while (s[i] != t[i] and k < 10000) {
+            op(i);
+        }
+    }
+
+    
+    bool same = true;
+    for (int i = 0; i < n; i++) {
+        if (s[i] != t[i]) {
+            same = false;
+        }
+    }
+
+    cout << (same ? "yes" : "no") << endl;
+    if (same) {
+        cout << com << endl;
+    }
+}
+
+int32_t main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+
+    while (tst)
+        solve();
+
+    return 0;
+}
